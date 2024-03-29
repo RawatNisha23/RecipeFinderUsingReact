@@ -1,5 +1,6 @@
 {
   "name": "recipe-finder",
+  "homepage": "http://RawatNisha23.github.io/RecipeFinderUsingReact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
